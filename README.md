@@ -1,8 +1,8 @@
-#Snake Rust
+# Snake Rust
 
 Prosta implementacja klasycznej gry Snake napisana w języku Rust z wykorzystaniem biblioteki `piston_window`.
 
-##Funkcje:
+## Funkcje:
 
 Dwóch graczy: Obsługa dwóch węży sterowanych niezależnie (strzałki i WASD).
 Kamienie: Dodatkowe przeszkody w postaci kamieni.
@@ -14,7 +14,7 @@ Wykrywanie kolizji: Precyzyjne wykrywanie kolizji ze ścianami, kamieniami i sam
 Wyświetlanie wyniku: Komunikat o wygranej/przegranej po zakończeniu gry.
 
 
-##Sterowanie:
+## Sterowanie:
 
 Gracz 1:
     Strzałka w górę: Ruch w górę
