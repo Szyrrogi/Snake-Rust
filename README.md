@@ -5,7 +5,7 @@ Prosta implementacja klasycznej gry Snake napisana w języku Rust z wykorzystani
 ## Funkcje:
 
 *   **Dwóch graczy:** Obsługa dwóch węży sterowanych niezależnie (strzałki i WASD).
-*   **Dodatkowe przeszkody w postaci kamieni.
+*   **Kmienie:** Dodatkowa przeszkoda.
 *   **przechodzenia przez ściany:** Możliwość włączenia/wyłączenia zawijania planszy.
 *   **Portale:** Opcjonalne portale teleportujące węże.
 *   **Zmiana rozmiaru planszy:** Użytkownik może zdefiniować szerokość i wysokość planszy.
